@@ -9,7 +9,7 @@
 ---
 
 ## 프로젝트 
-우리동네 자전거 
+우리동네 자전거 따르릉
 -  
 ## 기술스택
 React, Redux, JavaScript, SCSS, HTML
