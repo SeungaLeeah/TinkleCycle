@@ -29,6 +29,9 @@ const Meta = (props) => {
         <meta property="og:title" content={props.title} />
         <meta property="og:description" content={props.description} />
         <meta property="og:url" content={props.url} />
+         
+        {/* 에스코어드림 폰트 */}
+        <link href="https://webfontworld.github.io/score/SCoreDream.css" rel="stylesheet"></link>
       </Helmet>
     </HelmetProvider>
   );
